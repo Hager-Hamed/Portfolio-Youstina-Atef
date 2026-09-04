@@ -4898,3 +4898,7 @@ form textarea:required:valid {
     padding: 2rem 0;
 }
 }
+
+body{
+  overflow: hidden;
+}
